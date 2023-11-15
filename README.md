@@ -2,6 +2,8 @@
 
 ###### The code for this game is provided in the file "곽희진(20211859 - Shumup.py". 
 
+
+### Import the program needed to run the program, set the files, width/height, and FPS.
 import pygame
 import random
 from os import path
