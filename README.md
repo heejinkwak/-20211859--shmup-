@@ -4,9 +4,8 @@
 
 
 ### Import the program needed to run the program, set the files, width/height, and FPS.
-
-```ruby
-import pygame
+```
+// import pygame
 import random
 from os import path
 
